@@ -2,5 +2,11 @@
   "Post": {
     "title": "string",
     "views": "int"
-    }
+    },
+  "test": {
+    "a": {"title": "Luca",
+    "views": 1},
+    "b": {"title": "Kasia",
+    "views": 2}
+  }
 }
