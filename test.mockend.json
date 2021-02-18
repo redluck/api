@@ -1,0 +1,6 @@
+{
+  "Post": {
+    "title": "string",
+    "views": "int"
+    }
+}
