@@ -1,6 +1,5 @@
-/*Testabile alla url https://mockend.com/redluck/api/post*/
-
 {
+  _comment: "Testabile alla url https://mockend.com/redluck/api/post",
   "Post": {
     "title": "string",
     "views": "int"
